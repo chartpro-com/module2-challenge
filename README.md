@@ -10,7 +10,7 @@
 
 
 ## Description
-The purpose of this cahllenge was to construct a Portfoli website from scratch.Since I don't have any actual projects yet, I used placeholder images with links to exsiting sites that I want to emulate.
+The purpose of this cahllenge was to construct a Portfolio website from scratch. Since I don't have any actual projects yet, I used placeholder images with links to exsiting sites that I want to emulate.
 
 ## Examples
 Created a header with links that when clicked, moves browser to that section. 
